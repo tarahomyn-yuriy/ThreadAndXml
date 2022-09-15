@@ -6,4 +6,5 @@
     API для розробників на сайті Національного банку України
     https://bank.gov.ua/ua/open-data/api-dev
 
-    Дивитись на YouTube https://youtu.be/bimhkoBoQ4E
+    
+Дивитись на YouTube https://youtu.be/bimhkoBoQ4E
